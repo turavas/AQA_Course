@@ -1,1 +1,9 @@
-
+Required fields:
+- title
+- environment
+- severity/priority
+- description:
+       * Steps to reproduce (STR)
+       * Actual result (AR)
+       * Expected result (ER)
+- attachments
