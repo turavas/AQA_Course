@@ -1,0 +1,6 @@
+- Theory of test automation,
+- Version control systems and Git, GitHub,
+- Programming language: JavaScript and TypeScript,
+- Unit testing, design patterns and SOLID principles,
+- UI and API testing automation,
+- Reporting and integration with CI/CD.

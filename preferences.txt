@@ -1,0 +1,2 @@
+favourite books: Science fiction,
+activities: rock climbing, hikking.
